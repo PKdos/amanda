@@ -1,6 +1,6 @@
 # amanda
-Trabajo de fin de curso python
-Trabajo fin de curso python para pentesting por Platon K. - pekados
+[Trabajo de fin de curso python]
+Trabajo fin de curso python para pentesting por Platon K. - PKdos
 Profesor de thesecuritysentinel.es - Adastra
  
  [Requisitos]
@@ -12,7 +12,7 @@ Profesor de thesecuritysentinel.es - Adastra
  -bs4
  -os
  -sys
- -paramiko
+ -paramiko (instalar con pip install -U paramiko)
  -pythonwhois
  -dns
  -pygeoip
