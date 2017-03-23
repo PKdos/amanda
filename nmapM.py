@@ -94,7 +94,7 @@ def nmapM(x):
     print "Informacion por shodan: "
     print "-" * 100
     try:
-        sks = "COzlDXt75lpES3mTKxqziflaXaxvMUFO"
+        sks = "API SHODAN"
         sak = shodan.Shodan(sks)
         try:
             y = socket.gethostbyname(x)
